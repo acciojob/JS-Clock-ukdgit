@@ -1,4 +1,4 @@
-# Acciojob Assignment Solution Template Repo
+# Acciojob Assignment Solution emplate Repo
 
 # Instructions  
 
